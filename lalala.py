@@ -9,6 +9,6 @@ y = [0, 0, 1, 1, 0]
 
 plt.figure(0, figsize=(8, 6))
 plt.plot(x, y, color='purple')
-plt.title('Figura 1', fontsize='16')
+plt.title('Trapézio Roxo', fontsize='16')
 plt.show()
 
